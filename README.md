@@ -5,6 +5,7 @@ Waker-Upper script allows you to use your computer as a remotely triggered alarm
 When triggered, Waker-Upper script automatically opens a configured YouTube URL and gradually increases the volume of the selected audio device, making it ideal for wake-up alarms, notifications, and automation projects.
 
 Setup
+
 Install and run Waker-upper script on the computer you want to use as the alarm.
 Configure the application's local IP address using the PC's Ethernet or Wi-Fi IP address. (Line 38)
 Configure the YouTube URL and audio output device.
